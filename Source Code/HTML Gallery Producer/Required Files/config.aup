@@ -1,0 +1,3 @@
+APPLICATION_NAME=HTML Gallery Producer
+EXECUTABLE=HTML Gallery Producer.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/HTML Gallery Producer/manifest.xml
